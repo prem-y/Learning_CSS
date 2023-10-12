@@ -1,0 +1,36 @@
+
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background-color: rgb(42, 255, 31);
+    font-size: larger;
+}
+
+body{
+    background-color: rgb(255, 129, 129);
+}
+
+#head3{
+    color: chocolate;
+    text-align: center;
+}
+
+#head4{
+    color: chartreuse;
+}
+
+p{
+    text-transform: uppercase;
+}
+
+
+
