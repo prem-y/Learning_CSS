@@ -1,4 +1,27 @@
-div{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+#navbar{
+    background-color: black;
+    height: 60px;
+}
+button{
+    background-color: orange;
+}
+
+#logo{
+    color: orange;
+    font-size: 25px;
+} 
+
+.box{
     height: 100px;
     width: 100px;
     background-color: rgb(203, 148, 255);
@@ -7,6 +30,7 @@ div{
     border-radius: 4px;
     padding: 30px;
 }
-div p{
+.box p{
     margin-top: 40px;
 }
+
