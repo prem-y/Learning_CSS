@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+#bigdiv{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(155, 124, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin-left: 43%;
+}
+
+#smalldiv{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
